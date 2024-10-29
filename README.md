@@ -1,1 +1,1 @@
-"# MinimalAspNetAPI" 
+# MinimalAspNetAPI
